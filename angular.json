@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projer1"
+    }
+  },
+  "defaultProject": "projer1",
+  "cli": {
+    "analytics": "cc05c736-2831-4423-a1a2-093e5f854fcc"
+  }
 }
